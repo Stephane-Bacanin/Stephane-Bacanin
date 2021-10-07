@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Stephane-Bacanin
+- 👀 I’m interested in connect with people and learning code, i only know to use VBA but i want to discover other IT stuff
+- 🌱 I’m currently learning how to do a marketplace and using API
+- 💞️ I’m looking to collaborate on speak with people about different subjects
+- 📫 How to reach me on linkedin (stephane bacanin) or by mail to stephane@rdodigital.fr
